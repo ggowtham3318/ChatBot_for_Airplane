@@ -20,7 +20,7 @@ A user-friendly web application to search and book airplane tickets via an AI-po
 
 
 
-🔐 Authentication
+#🔐 Authentication
 
 Users can register and log in
 Passwords securely stored
